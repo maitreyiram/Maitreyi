@@ -1,6 +1,8 @@
 # Maitreyi
 
 
-Hi humns, 
+Hi humans, 
 
-Mitreyi here. I like CCL and SQL. 
+Maitreyi here. I like CCL and SQL.
+
+signing off...
